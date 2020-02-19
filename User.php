@@ -24,5 +24,16 @@
         
         }
 
+        /*
+         * Método para obtener el status
+         * 
+         * @author Fides Escalona
+         * return void
+         */
+        public function getStatus()
+        {
+            return 'status';
+        }
+
         
     }
